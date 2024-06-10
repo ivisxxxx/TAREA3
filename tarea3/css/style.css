@@ -1,0 +1,33 @@
+BODY{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+}
+h1{
+    font-size: 40px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    font-size: 30px; 
+    color: #00ffff; 
+    text-align: left; 
+}
+
+nav {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+}
+nav button {
+    background-color: #032442;
+    color: #fbff00;
+    border: none;
+    cursor: pointer;
+    padding: 30px 35px;
+    margin: 19px;
+}
+nav button:hover {
+    background-color: #88887c;
+}
